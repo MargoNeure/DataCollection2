@@ -41,6 +41,7 @@ for page in range(1, 51):  # страницы 1-50
 
     # pprint(url_2)
 
+#
 
 
     print(f"Обработана {page} страница")
